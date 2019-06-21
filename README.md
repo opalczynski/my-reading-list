@@ -11,3 +11,7 @@ A short article about taking action - mother was not satisfied with the book, as
 ## [M94: It is impossible to make a full-timer deliver results, unless they want it](https://www.youtube.com/watch?v=salVaSqJwb8&feature=youtu.be)
 
 Yegor for sure not at his peak. But this video is challenging and that's good.
+
+## [3 Coding Stages. Writing. Avoid. Deleting.](https://link.medium.com/CIa8b2aWHX)
+
+I am in delete phase - where are you? ;)
