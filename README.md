@@ -1,3 +1,21 @@
+# 22-06-2019
+
+## [Django 3.0 future release](https://docs.djangoproject.com/en/dev/releases/3.0/)
+
+Was curious what guys are planning. Saw some tweet with info that ASGI is now supported in development version of django.
+
+## [ASGI documentation](https://asgi.readthedocs.io/en/latest/specs/www.html)
+
+And this is a followup for ASGI and previous entry.
+
+## [PL - Kultura masowa w fazie masturbacyjnej. Porno na wielkime ekranie.](https://tygodnik.tvp.pl/43141174/kultura-masowa-w-fazie-masturbacyjnej-porno-na-wielkim-ekranie)
+
+This is about porn in cinema 'normal' movies. And cultural change that is happening. But is it really happening?
+
+## [Libra, a Cyberpunk Nightmare in the Midst of Crypto Spring](https://link.medium.com/jwppVEQvJX)
+
+About Libra and Crypto and impact it can has to the world. Is it an Extinction Level Event for the old financial world order?
+
 # 21-06-2019
 
 ## [Bodies in seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)
