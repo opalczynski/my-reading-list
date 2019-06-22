@@ -8,7 +8,7 @@ Was curious what guys are planning. Saw some tweet with info that ASGI is now su
 
 And this is a followup for ASGI and previous entry.
 
-## [PL - Kultura masowa w fazie masturbacyjnej. Porno na wielkime ekranie.](https://tygodnik.tvp.pl/43141174/kultura-masowa-w-fazie-masturbacyjnej-porno-na-wielkim-ekranie)
+## [PL - Kultura masowa w fazie masturbacyjnej. Porno na wielkim ekranie.](https://tygodnik.tvp.pl/43141174/kultura-masowa-w-fazie-masturbacyjnej-porno-na-wielkim-ekranie)
 
 This is about porn in cinema 'normal' movies. And cultural change that is happening. But is it really happening?
 
