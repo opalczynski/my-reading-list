@@ -1,5 +1,3 @@
-# 23-06-2019
-
 # 22-06-2019
 
 ## [Django 3.0 future release](https://docs.djangoproject.com/en/dev/releases/3.0/)
@@ -17,6 +15,10 @@ This is about porn in cinema 'normal' movies. And cultural change that is happen
 ## [Libra, a Cyberpunk Nightmare in the Midst of Crypto Spring](https://link.medium.com/jwppVEQvJX)
 
 About Libra and Crypto and impact it can has to the world. Is it an Extinction Level Event for the old financial world order?
+
+## [How To Negotiate Like A Pro And Get What You Want More Often](https://link.medium.com/fnh7AqtAJX)
+
+Actually it is in the title - nice initial compendium about negotiations.  
 
 # 21-06-2019
 
