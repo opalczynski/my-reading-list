@@ -5,6 +5,30 @@
 Sometimes I am reading strange stuff - this is one of such articles. It seems unreal, and I am too lazy to check the sources.
 And also can not find a logical explanation - why tech giants are moving R&D to Israel.
 
+## [PL - Czy bankierzy centralni zapanują nad kryptowalutami?](https://independenttrader.pl/banki-centralne-chca-kontroli-nad-kryptowalutami.html)
+
+IF Central Banks will join crypto game and why.
+
+## [Here's what Salesforce thinks you missed about its massive $15.7 billion acquisition](https://www.google.ch/amp/s/finance.yahoo.com/amphtml/news/what-salesforce-thinks-you-missed-about-its-massive-157-billion-acquisition-171439231.html)
+
+As title states - TBH I was not aware of this acquisition.
+
+## [Conformity kills innovation: embrace your company’s black sheep](https://link.medium.com/lNsZOnxPMX)
+
+I can agree here too. Challenging the status-quo is a hard job.
+
+## [How To Get Software Engineering Interviews With No Experience](https://link.medium.com/v4HhokROMX)
+
+Short article about finding your first job in IT and what actions can you allow to achieve that.
+
+## [Are You Aware of the Nasty Habit Killing Your Dreams?](https://link.medium.com/j4x2QwhOMX)
+
+Well - it is an inner voice. The good one and the bad one. Nice article.
+
+## [The Most Important Way to Measure Your Day](https://link.medium.com/hoUSwlYNMX)
+
+Two measures proposed: Did I learn something new today? Did I help somebody?
+
 # 22-06-2019
 
 ## [Django 3.0 future release](https://docs.djangoproject.com/en/dev/releases/3.0/)
