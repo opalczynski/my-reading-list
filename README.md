@@ -1,3 +1,10 @@
+# 24-06-2019
+
+##  [How NeoCon Billionaire Paul Singer Is Driving the Outsourcing of US Tech Jobs to Israel(https://www.mintpressnews.com/neocon-billionaire-paul-singer-driving-outsourcing-us-tech-jobs-israel/259147/)
+
+Sometimes I am reading strange stuff - this is one of such articles. It seems unreal, and I am too lazy to check the sources.
+And also can not find a logical explanation - why tech giants are moving R&D to Israel.
+
 # 22-06-2019
 
 ## [Django 3.0 future release](https://docs.djangoproject.com/en/dev/releases/3.0/)
