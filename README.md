@@ -1,3 +1,21 @@
+# 25-06-2019
+
+## [What's new in python 3.8](https://docs.python.org/3.8/whatsnew/3.8.html)
+
+Come on, it is self explanatory.
+
+## [Clutch report](https://clutch.co/press-releases/announces-2019-leading-developers-across-variety-technology-focus-areas)
+
+I was wondering which Polish Software House companies are listed in Python section.
+
+## [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
+
+An article about psychological safety and how important it is for creativity.
+
+## [What AngelList Data Says About Power-Law Returns In Venture Capital](https://angel.co/blog/what-angellist-data-says-about-power-law-returns-in-venture-capital)
+
+Which strategy pick to invest in startups and VC portfolio management. Well written.
+
 # 24-06-2019
 
 ##  [How NeoCon Billionaire Paul Singer Is Driving the Outsourcing of US Tech Jobs to Israel](https://www.mintpressnews.com/neocon-billionaire-paul-singer-driving-outsourcing-us-tech-jobs-israel/259147/)
