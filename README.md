@@ -1,3 +1,23 @@
+# 27-06-2019
+
+## [PL - Polska i Polacy oczami Ukraińca. "Pierwszy szok kulturowy to... komunikacja miejska](https://kultura.dziennik.pl/ksiazki/artykuly/600585,dima-garbowski-ukraina-emigracja-imigrant-polak-z-ukrainy.html)
+
+How it is to live in Poland being Ukrainian.
+
+# 26-06-2019
+
+## [Jordan Petterson about himself at 25](https://www.youtube.com/watch?v=Vxx3hzAdrKY)
+
+I like this guy, so watching videos from time to time. Here Jordan explaining how to put yourself together.
+
+## [Tundra, the zero-fee wholesale marketplace, picks up $12 million](https://techcrunch.com/2019/06/25/tundra-the-zero-fee-wholesale-marketplace-picks-up-12-million/)
+
+Another news about funding.
+
+## [Learning Synts!](https://learningsynths.ableton.com/)
+
+Great page that will help you understand how synts works.
+
 # 25-06-2019
 
 ## [What's new in python 3.8](https://docs.python.org/3.8/whatsnew/3.8.html)
