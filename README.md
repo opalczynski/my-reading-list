@@ -1,8 +1,30 @@
+# 28-06-2019
+
+## [Journey of a Polish female Entrepreneur](https://www.youtube.com/watch?v=zXeWLeAUGvI)
+
+I am watching TEDx from time to time. This one is a nice story of how to become Entrepreneur.
+
 # 27-06-2019
 
 ## [PL - Polska i Polacy oczami Ukraińca. "Pierwszy szok kulturowy to... komunikacja miejska](https://kultura.dziennik.pl/ksiazki/artykuly/600585,dima-garbowski-ukraina-emigracja-imigrant-polak-z-ukrainy.html)
 
 How it is to live in Poland being Ukrainian.
+
+## [Programmer Test Principles](https://link.medium.com/cB0xpueTRX)
+
+Kent Beck. It should be enough, but if not: Kent Beck about unnecessary discussion over details.
+
+## [The science behind making better decisions](https://link.medium.com/ROsf0P3TRX)
+
+How to make better decisions?
+
+## [Why Great Leaders Let Their Team Feel the Pressure](https://link.medium.com/LArZ2ExURX)
+
+Pressure is about responsibility.
+
+## [Serverless. You Keep Using That Word. I Do Not Think It Means What You Think It Means](https://link.medium.com/5AZR2LpVRX)
+
+A lot of myhs around Serverless - lets make it clear.
 
 # 26-06-2019
 
