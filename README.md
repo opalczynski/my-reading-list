@@ -1,8 +1,11 @@
+I moved this to my blog: [showpy.tech - reading list](https://showpy.tech/reading-list/)
+Go there from time to time if you want to track it.
+
 # 30-06-2019
 
 ## [Top Signs Of An Over-Experienced Programmer](https://link.medium.com/u2AB0YhAWX)
 
-Very nice article. I have enough of the over-experienced programmers too ;) 
+Very nice article. I have enough of the over-experienced programmers too;)
 
 ## [PL - Co czyni nas szczęśliwymi](http://www.neuropsychologia.org/co-czyni-nas-szcz%C4%99%C5%9Bliwymi)
 
