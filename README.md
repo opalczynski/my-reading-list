@@ -1,3 +1,20 @@
+# 30-06-2019
+
+## [Top Signs Of An Over-Experienced Programmer](https://link.medium.com/u2AB0YhAWX)
+
+Very nice article. I have enough of the over-experienced programmers too ;) 
+
+## [PL - Co czyni nas szczęśliwymi](http://www.neuropsychologia.org/co-czyni-nas-szcz%C4%99%C5%9Bliwymi)
+
+What makes you happy? Well... Love.
+
+# 29-06-2019
+
+## [Boeing's 737 Max Software Outsourced to $9-an-Hour Engineers](https://www.bloomberg.com/news/articles/2019-06-28/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers)
+
+A bit more on this Boeing 737 things. If you haven't read it there is also great article by Uncle Bob: [737-Max-8](https://blog.cleancoder.com/uncle-bob/2019/05/18/737-Max-8.html)
+This case is interesting from programmer perspective.
+
 # 28-06-2019
 
 ## [Journey of a Polish female Entrepreneur](https://www.youtube.com/watch?v=zXeWLeAUGvI)
